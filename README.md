@@ -3,9 +3,9 @@ Most data scientists are familiar with Fisher's Iris Dataset. The original Iris 
 
 The project provides two files :
 <ol>
-  <li><strong>image_processing : </strong> contains necessary functions to load and preprocess images <strong>load_data</strong>, <strong>show_img</strong>, <strong>data_augmenter</strong> and <strong>data_rescaling</strong></li>
+  <li><strong>image_processing.py </strong> contains necessary functions to load and preprocess images <strong>load_data</strong>, <strong>show_img</strong>, <strong>data_augmenter</strong> and <strong>data_rescaling</strong></li>
   <br>
-  <li><strong>The notebook</strong></li>
+  <li><strong>The notebook</strong> Main.ipynb</li>
 </ol> 
 
 
